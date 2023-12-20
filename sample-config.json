@@ -1,0 +1,185 @@
+{
+  "dedicatedServerId": "",
+  "region": "US",
+  "bindPort": 28001,
+  "publicPort": 28001,
+  "game": {
+    "name": "My Fancy Server",
+    "password": "",
+    "scenarioId": "{5F155C09B26AB74C}Missions/23_Campaign.conf",
+    "maxPlayers": 100,
+    "visible": true,
+    "gameProperties": {
+      "serverMaxViewDistance": 2500,
+      "serverMinGrassDistance": 50,
+      "networkViewDistance": 1000,
+      "disableThirdPerson": true,
+      "fastValidation": true,
+      "battlEye": true,
+      "missionHeader": {
+        "m_iPlayerCount": 100,
+        "m_eEditableGameFlags": 6,
+        "m_eDefaultGameFlags": 6,
+        "other": "values"
+      }
+    },
+    "supportedPlatforms": [
+      "PLATFORM_PC",
+      "PLATFORM_XBL"
+    ],
+    "passwordAdmin": "zvq2epb6gba!gft2UPM",
+    "autoJoinable": true,
+    "mods": [
+      {
+        "modId": "5F155C09B26AB74C",
+        "name": "BADLAND RAIDERS CONFLICT MAIN",
+        "version": "1.0.2"
+      },
+      {
+        "modId": "5D0551624969C92E",
+        "name": "Zeliks Character",
+        "version": "1.1.6"
+      },
+      {
+        "modId": "5ECC81CFB5028058",
+        "name": "Sierra Golf Core",
+        "version": "1.0.7"
+      },
+      {
+        "modId": "5D457933C3941DBB",
+        "name": "MP5_MP5SD",
+        "version": "1.0.23"
+      },
+      {
+        "modId": "5D6ABA88F8781C1C",
+        "name": "TF Mattock BLUFOR OPFOR",
+        "version": "0.4.1"
+      },
+      {
+        "modId": "5E8E86A8CDB8EC59",
+        "name": "G28",
+        "version": "1.0.2"
+      },
+      {
+        "modId": "595F2BF2F44836FB",
+        "name": "RHS - Status Quo",
+        "version": "0.6.1657"
+      },
+      {
+        "modId": "59A30ACC02650E71",
+        "name": "Night Vision System",
+        "version": "1.1.13"
+      },
+      {
+        "modId": "5AB890B71D748750",
+        "name": "M4A1 Block II and URG-I",
+        "version": "1.0.46"
+      },
+      {
+        "modId": "5E5F0E052033B5EC",
+        "name": "TFBB Patches",
+        "version": "1.0.12"
+      },
+      {
+        "modId": "5E4F1725CF7FD63A",
+        "name": "Bacons M249 pkm rpk rails",
+        "version": "1.0.16"
+      },
+      {
+        "modId": "5DF14A2FD0C42CC0",
+        "name": "MAKO AK 105 Zentico",
+        "version": "1.0.2"
+      },
+      {
+        "modId": "5CF0C3158AB2337E",
+        "name": "Task Force Mattock Uniforms",
+        "version": "0.8.13"
+      },
+      {
+        "modId": "5E983E9EA4E38915",
+        "name": "Luminary - Equipment",
+        "version": "1.0.40"
+      },
+      {
+        "modId": "5B3ED33ADA805340",
+        "name": "Task Force Mattock Weapons",
+        "version": "1.0.52"
+      },
+      {
+        "modId": "5ECEC1724EED3852",
+        "name": "Defcon Vans",
+        "version": "1.0.2"
+      },
+      {
+        "modId": "5AB301290317994A",
+        "name": "Suppressors",
+        "version": "1.0.18"
+      },
+      {
+        "modId": "5ABD0CB57F7E9EB1",
+        "name": "RIS Laser Attachments",
+        "version": "1.0.49"
+      },
+      {
+        "modId": "5AF6E0F075D79473",
+        "name": "M249 Scope Rails",
+        "version": "1.0.8"
+      },
+      {
+        "modId": "5E20E8B2F00F9864",
+        "name": "DarkGru Operators Pack",
+        "version": "0.0.103"
+      },
+      {
+        "modId": "5D550926D43F1409",
+        "name": "Tactical Flava",
+        "version": "0.1.14"
+      },
+      {
+        "modId": "5DEC10DF793444BA",
+        "name": "Vektor R4",
+        "version": "1.0.4"
+      },
+      {
+        "modId": "5E39644AB07EA789",
+        "name": "SPECTRE SVD",
+        "version": "1.0.7"
+      },
+      {
+        "modId": "5ED505ADB316AE5C",
+        "name": "Luminary - Weapons",
+        "version": "1.0.31"
+      },
+      {
+        "modId": "5F13232DB28397D1",
+        "name": "GARBAGESYSTEMFIX",
+        "version": "1.0.1"
+      },
+      {
+        "modId": "5EED4468698C0257",
+        "name": "MEP CIVIL",
+        "version": "1.0.5"
+      },
+      {
+        "modId": "5F1ADA33A0B53677",
+        "name": "DISABLEVEHICLEGARBAGE",
+        "version": "1.0.0"
+      },
+      {
+        "modId": "5C73156675E11A0F",
+        "name": "GM PERSISTENT LOADOUTS",
+        "version": "1.0.14"
+      },
+      {
+        "modId": "5E7064AF6A96E151",
+        "name": "DARKGRU SCRIPTS",
+        "version": "1.0.2"
+      },
+      {
+        "modId": "5EDF2CF90F6B525E",
+        "name": "NoFastTravel",
+        "version": "1.0.0"
+      }
+    ]
+  }
+}
